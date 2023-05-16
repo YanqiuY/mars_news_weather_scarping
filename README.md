@@ -11,4 +11,4 @@
 2. Assemble the scraped data into a Pandas DataFrame and converted data to the appropriate `datetime`, `int`, or `float` data types.
 3. Analyze your dataset by using matplotlib.pyplot and pandas functions.
 4. The detailed analysiss is in the Jupyter Notebook named `part_2_mars_weather.ipynb`
-5. The DataFrame was exported into a CSV file named `Mars_Weather_data.csvx`
+5. The DataFrame was exported into a CSV file named `Mars_Weather_data.csv`
